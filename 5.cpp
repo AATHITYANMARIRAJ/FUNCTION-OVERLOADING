@@ -1,3 +1,6 @@
+/*5.	Write a program that demonstrates function overloading by defining three functions with the same name but 
+different combinations of parameter types and number.*/
+
 #include <iostream>
 using namespace std;
 
