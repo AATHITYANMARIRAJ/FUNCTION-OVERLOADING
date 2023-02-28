@@ -1,3 +1,6 @@
+/*6.	Write a program that demonstrates function overloading by defining 
+two functions with the same name and parameter types, but different default argument values.*/
+
 #include <iostream>
 #include <string>
 using namespace std;
